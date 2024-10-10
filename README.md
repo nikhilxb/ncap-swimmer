@@ -3,13 +3,11 @@
 Paper: https://arxiv.org/abs/2201.05242
 
 ```bibtex
-@misc{bhattasali2022neural,
-      title={Neural Circuit Architectural Priors for Embodied Control}, 
-      author={Nikhil X. Bhattasali and Anthony M. Zador and Tatiana A. Engel},
-      year={2022},
-      eprint={2201.05242},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{Bhattasali2022SwimmerNCaP,
+  title = {Neural Circuit Architectural Priors for Embodied Control},
+  booktitle = {Advances in {{Neural Information Processing Systems}}},
+  author = {Bhattasali, Nikhil X. and Zador, Anthony M. and Engel, Tatiana A.},
+  year = {2022}
 }
 ```
 
@@ -22,4 +20,4 @@ Paper: https://arxiv.org/abs/2201.05242
 
 ## Supplementary Materials
 
-Videos: https://github.com/nikhilxb/ncap/tree/main/supplementary
+Videos: https://github.com/nikhilxb/ncap-swimmer/tree/main/supplementary
