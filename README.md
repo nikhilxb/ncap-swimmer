@@ -3,7 +3,7 @@
 Paper: https://arxiv.org/abs/2201.05242
 
 ```bibtex
-@inproceedings{Bhattasali2022SwimmerNCaP,
+@inproceedings{Bhattasali2022SwimmerNCAP,
   title = {Neural Circuit Architectural Priors for Embodied Control},
   booktitle = {Advances in {{Neural Information Processing Systems}}},
   author = {Bhattasali, Nikhil X. and Zador, Anthony M. and Engel, Tatiana A.},
